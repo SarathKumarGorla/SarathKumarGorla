@@ -19,7 +19,7 @@ I am passionate about technology and constantly exploring new areas in software 
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** JavaScript, Python, C  
+- **Languages:** JavaScript, Java, Python, C  
 - **Frontend:** React.js, HTML, CSS  
 - **Backend:** Node.js, Express.js  
 - **Databases:** MongoDB, MySQL  
