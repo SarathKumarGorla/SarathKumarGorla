@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sarath Kumar Gorla</h1>
 <h3 align="center">
-  Aspiring Software Engineer | Backend & Full-Stack Developer | Problem Solver
+   Software Engineer | Backend & Full-Stack Developer | Problem Solver
 </h3>
 
 <p align="center">
-  🚀 Currently a Web Development Intern @Zymo | Solved 500+ DSA Problems on LeetCode & GFG | CodeChef & Postman Certified
+  
+🚀 Contributed as a Web Development Intern @ Zymo | Solved 500+ DSA problems on LeetCode & GFG | CodeChef & Postman Certified
 </p>
 
 ---
 
 ### 🎓 About Me
 
-Graduated with a B.Tech in Computer Science and Engineering from **Kalasalingam Academy of Research and Education**  with a CGPA of 7.54.  
+🎓 B.Tech CSE Graduate (2021 – 2025) in Computer Science and Engineering from **Kalasalingam Academy of Research and Education**  with a CGPA of 7.54.  
 I am passionate about technology and constantly exploring new areas in software development and problem-solving.
 
 ---
