@@ -83,7 +83,7 @@ I am passionate about technology and constantly exploring new areas in software 
 
 ### 📊 GitHub Stats
 
-![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sarathgorla&show_icons=true&locale=en&layout=compact)
+![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sarathkumargorla&show_icons=true&locale=en&layout=compact)
 
 ---
 
